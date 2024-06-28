@@ -3,7 +3,7 @@
   "packageType":"mods",
   "appName":"pahe-tv",
   "description":"Watch and stream Anime online with AnimePahe"
-  "websiteURL":"https://animepahe.ru/?page=1",
+  "websiteURL":"https://hianime.to/home",
   "main":"index.js",
   "keys": ["MediaPlayPause"],
   "repository": {
