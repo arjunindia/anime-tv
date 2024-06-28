@@ -2,7 +2,7 @@
   "name": "arjunindia/anime-tv",
   "packageType":"mods",
   "appName":"anime-tv",
-  "description":"Watch and stream Anime online!"
+  "description":"Watch and stream Anime online!",
   "websiteURL":"https://hianime.to/home",
   "main":"index.js",
   "keys": ["MediaPlayPause"],
