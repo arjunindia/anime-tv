@@ -1,8 +1,8 @@
 {
   "name": "@arjunindia/pahe-tv",
   "packageType":"mods",
-  "appName":"pahe-tv",
-  "description":"Watch and stream Anime online with AnimePahe"
+  "appName":"anime-tv",
+  "description":"Watch and stream Anime online!"
   "websiteURL":"https://hianime.to/home",
   "main":"index.js",
   "keys": ["MediaPlayPause"],
