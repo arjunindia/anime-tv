@@ -3,7 +3,7 @@
   "packageType":"mods",
   "appName":"anime-tv",
   "description":"Watch and stream Anime online!",
-  "websiteURL":"https://hianime.to/home",
+  "websiteURL":"https://animenana.com/",
   "main":"index.js",
   "keys": ["MediaPlayPause"],
   "repository": {
